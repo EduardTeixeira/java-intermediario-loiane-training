@@ -31,4 +31,3 @@ public class Aula77 {
     }
 
 }
-String: extraindo chars (charAt, getChars, getBytes, toCharArray)
